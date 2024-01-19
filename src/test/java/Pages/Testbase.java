@@ -35,7 +35,7 @@ public class Testbase {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 
-		driver.get("http://dbankdemo.com/bank/login");
+		driver.get("https://www.bookswagon.com/");
 
 	}
 
